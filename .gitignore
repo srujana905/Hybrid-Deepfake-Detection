@@ -1,0 +1,42 @@
+# Datasets
+dataset/
+datasets/
+extracted_frames/
+sampled_frames/
+informative_frames/
+informative_frames_test/
+faces/
+aligned_faces/
+enhanced_faces/
+
+# Generated features
+spatial_features/
+temporal_features/
+fusion_features/
+baseline_features/
+dwt_fusion_images/
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credentials
+kaggle.json
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+Measure,Result
+Proposed Mean Accuracy (%),93.5170
+Proposed Standard Deviation,1.2849
+Baseline Mean Accuracy (%),91.8557
+Baseline Standard Deviation,1.6054
+Mean Difference (percentage points),1.6613
+t-statistic,4.2493
+Degrees of Freedom,9
+p-value,0.002145
+95% CI Lower,0.7769
+95% CI Upper,2.5456
+Cohen's dz,1.3437
+Effect Size,Large
+Statistical Significance,Statistically Significant
